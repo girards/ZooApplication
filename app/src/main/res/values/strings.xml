@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NZUA Official App</string>
+    <string name="call_zoo_menu_action">Call Us !</string>
+    <string name="uninstall_menu_action">Uninstall :(</string>
+    <string name="animal_name_sharkcat">SharkCat</string>
+    <string name="animal_description_sharkcat">Well, it is just cat with a shark costume… We still do not know how it got there but people are still fascinated by the beast.</string>
+    <string name="animal_name_jellyfish">Jellyfish</string>
+    <string name="animal_description_jellyfish">Jellyfish or jellies are softbodied, free-swimming aquatic animals with a gelatinous umbrella-shaped bell and trailing tentacles. The bell can pulsate to acquire propulsion and locomotion. The tentacles may be utilized to capture prey or defend against predators by emitting toxins in a painful sting. Jellyfish species are classified in the subphylum Medusozoa which makes up a major part of the phylum Cnidaria, although not all Medusozoa species are considered to be jellyfish.</string>
+    <string name="animal_name_dobby">Dobby</string>
+    <string name="animal_description_dobby">Dobby (28 June (year unknown) – March, 1998) was a male house-elf who served the Malfoy family. His masters were Dark Wizards who treated him cruelly. In 1992, he tried to warn Harry Potter of the plot to have the Chamber of Secrets reopened which he came to know via the contact between his masters and Lord Voldemort. Dobby kept hurting himself in numerous ways, e.g. ironing his hands, hitting his head against a lamp, and banging his head against cabinets. He felt this was necessary because he was disobeying his masters, the Malfoy family. At the end of that school year, after Harry had vanquished the memory of Tom Riddle and the basilisk in the Chamber of Secrets, he tricked Lucius Malfoy into freeing Dobby by placing the diary of Tom Riddle inside his own black sock. Lucius disgustedly ripped the sock off the book and threw the sock into the air, where Dobby caught it. \n\n\n\n But he is not really free… Now he\'s in a cage</string>
+    <string name="animal_name_unicorn">Unicorn</string>
+    <string name="animal_description_unicorn">The unicorn is a legendary creature that has been described since antiquity as a beast with a large, pointed, spiraling horn projecting from its forehead. The unicorn was depicted in ancient seals of the Indus Valley Civilization and was mentioned by the ancient Greeks in accounts of natural history by various writers, including Ctesias, Strabo, Pliny the Younger, and Aelian. The Bible also describes an animal, the re\'em, which some versions translate as unicorn.</string>
+    <string name="animal_name_secret">\???????</string>
+    <string name="animal_description_secret">for security purposes we have decided to encode this animal\'s description : \n VGhpcyBzcGVjaW1lbiBjYWxsZWQgIkphazQ1MyIgY2FtZSBhbGwgdGhlIHdheSBmcm9tIG91dGVyIHNwYWNlLCBoaXMgYmVoYXZpb3Igc2VlbXMgcmVhbGx5IGNsb3NlIHRvIGh1bWFuLCBoaXMgZm9vZCBjb25zaXN0IG9mIHNtYWxsIGJpcmRzIHRoYXQgd2VyZSB0YWtlbiBmcm9tIHRoZSBiaXJkIGNhZ2Ugb24gbG90IDQ1IG9mIHRoZSB6b28sIGhlIHNlZW1zIHRvIGVuam95IG1vcmUgcmVkIGJpcmRzIGFzIHdlIGNvdWxkIGZpbmQgc29tZSBibHVlIGFuZCB5ZWxsb3cgYmlyZHMgc3RpbGwgYWxpdmU=</string>
+    <string name="alert_confirm_view">The specimen you\'re trying to watch is part of the Confidential Animal Directory of Zoos. Are you sure you want to access its information page ?</string>
+    <string name="alert_title">Are you sure ?</string>
+    <string name="alert_positive_option">Yes, I\'m certified</string>
+    <string name="alert_negative_option">Please no, I\'m scared</string>
+    <string name="zoo_title">The National Zoo \nfor Uninteresting Animals !</string>
+    <string name="call_button">Call US !</string>
+</resources>

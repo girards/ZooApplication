@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.csulb.android.zooapplication.AnimalListingActivity">
+    <item
+        android:id="@+id/call_zoo_menu_option"
+        android:orderInCategory="100"
+        android:title="@string/call_zoo_menu_action"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/uninstall_menu_option"
+        android:orderInCategory="100"
+        android:title="@string/uninstall_menu_action"
+        app:showAsAction="never" />
+</menu>
